@@ -75,7 +75,7 @@ score_matrix <- as.matrix(s_m)
 
 F <- matrix(NA, aln_length1 + 1, aln_length2 + 1) # row*col, alignment matrix
 
-if(aln_mode == "global"){ ######### local alignment #########
+if(aln_mode == "global"){ ######### global alignment #########
   
   # initialize first row and first col with gap penalty decreasing
   F[,1] <- seq(0, aln_length1 * gap_penalty, gap_penalty)

@@ -1,0 +1,5 @@
+param	value
+cmd_line	./../bin/cuffdiff -o diff_out -b ../../../data/GSE67587/dsec-all-chromosome-r1.3.fasta -p 8 -u merged_asm/merged.gtf ./SRR1952772_thout/accepted_hits.bam,./SRR1952773_thout/accepted_hits.bam,./SRR1952774_thout/accepted_hits.bam ./SRR1952775_thout/accepted_hits.bam,./SRR1952776_thout/accepted_hits.bam,./SRR1952777_thout/accepted_hits.bam 
+version	2.2.1
+SVN_revision	4237
+boost_version	104700

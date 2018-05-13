@@ -1,0 +1,7 @@
+file	condition	replicate_num	total_mass	norm_mass	internal_scale	external_scale
+./SRR1952772_thout/accepted_hits.bam	q1	0	1.78135e+07	1.78609e+07	1.0012	1
+./SRR1952773_thout/accepted_hits.bam	q1	1	1.67781e+07	1.78609e+07	0.936688	1
+./SRR1952774_thout/accepted_hits.bam	q1	2	1.74368e+07	1.78609e+07	0.978467	1
+./SRR1952775_thout/accepted_hits.bam	q2	0	1.90595e+07	1.78609e+07	1.06875	1
+./SRR1952776_thout/accepted_hits.bam	q2	1	1.77856e+07	1.78609e+07	0.991871	1
+./SRR1952777_thout/accepted_hits.bam	q2	2	1.85219e+07	1.78609e+07	1.03575	1
